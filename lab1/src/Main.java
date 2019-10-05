@@ -19,7 +19,7 @@ public class Main {
                 double percentage = successTries / (double) tryNums;
                 System.out.println("Wynik dla " + threadNum + " wątków i "
                         + loopIteration + " iteracji: "
-                        + (percentage*100) + "% sukcesu");
+                        + (percentage * 100) + "% sukcesu");
             }
         }
     }

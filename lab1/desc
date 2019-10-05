@@ -1,0 +1,2 @@
+Co robi notify(), wait() na wątku pod maską?
+Z książki definicję monitora - weiss gruźlewski programowanie współbieżne - rysunek z strukturą danych - ile stosów i kolejek jest w monitorze. Czy na synchronized można zrobić monitor?
